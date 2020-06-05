@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "landingpagecreativenation",
-    "dev": "creativenation-a5cbc"
+    "default": "creativenation-a5cbc"
   }
 }
