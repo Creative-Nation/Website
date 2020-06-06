@@ -29,4 +29,4 @@ jobs:
       # - run: firebase deploy --token "$FIREBASE_TOKEN"  
       - run:
           name: Firebase Deploy
-          command: ./node_modules/.bin/firebase deploy --token "1//03I_4ZWbC0N4MCgYIARAAGAMSNwF-L9Ir6yy6XVimYTYJTMoUGMHO5OWzXWexMaZlbIERat63Yw16RmdP0E9iX4wT8nh8v5KQtOAREBASE_TOKEN"
+          command: ./node_modules/.bin/firebase deploy -P staging --token "1//03I_4ZWbC0N4MCgYIARAAGAMSNwF-L9Ir6yy6XVimYTYJTMoUGMHO5OWzXWexMaZlbIERat63Yw16RmdP0E9iX4wT8nh8v5KQtOAREBASE_TOKEN"
