@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "creativenation-a5cbc"
+    "default": "creativenation-a5cbc",
+    "staging": "creativenation-a5cbc"
   }
 }
