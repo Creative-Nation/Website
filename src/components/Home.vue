@@ -5,7 +5,7 @@
       id="home"
       class="s-home target-section"
       data-parallax="scroll"
-      data-image-src="https://firebasestorage.googleapis.com/v0/b/landingpagecreativenation.appspot.com/o/bg%2Fhero-bg.jpg?alt=media&token=7821834b-73f7-4ce6-b6db-6c7f5ca31785"
+      data-image-src="https://firebasestorage.googleapis.com/v0/b/landingpagecreativenation.appspot.com/o/bg%2Fcontact-bg.jpg?alt=media&token=b0253ebd-7006-40c2-9fea-45044d77da61"
       data-natural-width=3000
       data-natural-height=2000
       data-position-y=center>
@@ -68,7 +68,7 @@
 export default {
   computed: {
     img () {
-      return require('../assets/images/hero-bg.jpg');
+      return require('../assets/images/wheel-500.jpg');
     }
   }
 }
