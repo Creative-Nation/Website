@@ -26,7 +26,7 @@
                     <li><a class="smoothscroll" v-smooth-scroll href="#about" title="about">About</a></li>
                     <li><a class="smoothscroll" v-smooth-scroll href="#services" title="services">Services</a></li>
                     <li><a class="smoothscroll" v-smooth-scroll href="#works" title="works">Works</a></li>
-                    <li><a class="smoothscroll" v-smooth-scroll href="#clients" title="clients">Clients</a></li>
+                    <li><a class="smoothscroll" v-smooth-scroll href="#clients" title="clients">Team</a></li>
                     <li><a class="smoothscroll" v-smooth-scroll href="#contact" title="contact">Contact</a></li>
                 </ul>
     
@@ -52,7 +52,7 @@
           class="header-menu-toggle"
           href="#0"
           @click="openMenu = true">
-            <span class="header-menu-text">Menu</span>
+            <span class="header-menu-text header-menu-toggle"> MENU </span>
             <span class="header-menu-icon"></span>
         </a>
 
