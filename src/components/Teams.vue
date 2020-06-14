@@ -5,9 +5,9 @@
 
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
-                <h3 class="subhead">Our Clients</h3>
-                <h1 class="display-2">Glint has been honored to
-                partner up with these clients</h1>
+                <h3 class="subhead">Our Team</h3>
+                <h1 class="display-2">Creative Nation is honored to
+                work with this team</h1>
             </div>
         </div> <!-- end section-header -->
 
@@ -19,24 +19,24 @@
                         ref="slick"
                         :options="slickOptions">
                         <a href="#0" title="" class="clients__slide">
-                            <img src="images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
+                            <img src="images/avatars/" alt="Author image" class="testimonials__avatar">
                             <div class="testimonials__info">
-                                <span class="testimonials__name">Tim Cook</span> 
-                                <span class="testimonials__pos">CEO, Apple</span>
+                                <span class="testimonials__name">Ramus ASSOGBA</span> 
+                                <span class="testimonials__pos">Founder and CEO <br> Développeur web Front-end<br> Designer Graphiste</span>
                             </div>
                         </a>
                         <a href="#0" title="" class="clients__slide">
-                            <img src="images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
+                            <img src="images/avatars/" alt="Author image" class="testimonials__avatar">
                             <div class="testimonials__info">
-                                <span class="testimonials__name">Tim Cook</span> 
-                                <span class="testimonials__pos">CEO, Apple</span>
+                                <span class="testimonials__name">Mouhayad HOUNKANRIN</span> 
+                                <span class="testimonials__pos">Développeur web full stack</span>
                             </div>
                         </a>
                         <a href="#0" title="" class="clients__slide">
-                            <img src="images/avatars/user-03.jpg" alt="Author image" class="testimonials__avatar">
+                            <img src="images/avatars/" alt="Author image" class="testimonials__avatar">
                             <div class="testimonials__info">
-                                <span class="testimonials__name">Tim Cook</span> 
-                                <span class="testimonials__pos">CEO, Apple</span>
+                                <span class="testimonials__name">Aros FONTON</span> 
+                                <span class="testimonials__pos">Développeur web full stack <br> Scrum Master</span>
                             </div>
                         </a>
                     </slick>

@@ -17,7 +17,7 @@
 
             <div class="row home-content__main">
 
-                <h3>Welcom to Creative Nation</h3>
+                <h3>Welcome to Creative Nation</h3>
 
                 <h1>
                     We are a creative group <br>
@@ -51,9 +51,6 @@
         <ul class="home-social">
             <li>
                 <a href="#0"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a>
-            </li>
-            <li>
-                <a href="#0"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
             </li>
             <li>
                 <a href="#0"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>

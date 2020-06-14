@@ -67,28 +67,17 @@
                     <h3 class="h6 hide-on-fullwidth">Contact Info</h3>
 
                     <div class="cinfo">
-                        <h5>Where to Find Us</h5>
-                        <p>
-                            1600 Amphitheatre Parkway<br>
-                            Mountain View, CA<br>
-                            94043 US
-                        </p>
-                    </div>
-
-                    <div class="cinfo">
                         <h5>Email Us At</h5>
                         <p>
-                            contact@glintsite.com<br>
-                            info@glintsite.com
+                            ramusassogba@gmail.com<br>
                         </p>
                     </div>
 
                     <div class="cinfo">
                         <h5>Call Us At</h5>
                         <p>
-                            Phone: (+63) 555 1212<br>
-                            Mobile: (+63) 555 0100<br>
-                            Fax: (+63) 555 0101
+                            Phone: (+33) 755 005 762<br>
+                            Mobile: (+229) 96 955 783<br>
                         </p>
                     </div>
 
@@ -97,10 +86,7 @@
                             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                            <a href="https://www.instagram.com/229creativenation/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>

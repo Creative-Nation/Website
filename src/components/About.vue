@@ -13,7 +13,10 @@
         <div class="row about-desc" data-aos="fade-up">
             <div class="col-full">
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. 
+                  We are a creative group of people who design influential brands and digital experiences.
+                  A group of young dinamics and committed from the graphic designer to the developer
+                  We are doing everything to change your project into art.
+                  Because for us,<strong> every thing is design</strong>.
                 </p>
             </div>
         </div> <!-- end about-desc -->
@@ -26,7 +29,7 @@
                   ref="number1"
                   :from="numberFrom"
                   animationPaused
-                  :to="127"
+                  :to="1"
                   :duration="duration"
                   easing="Power4.easeOut"/>
                 <h5>Awards Received</h5>
@@ -37,7 +40,7 @@
                   ref="number2"
                   :from="numberFrom"
                   animationPaused
-                  :to="800"
+                  :to="320"
                   :duration="duration"
                   easing="Power4.easeOut"/>
                 <h5>Cups of Coffee</h5>
@@ -48,7 +51,7 @@
                   ref="number3"
                   :from="numberFrom"
                   animationPaused
-                  :to="109"
+                  :to="19"
                   :duration="duration"
                   easing="Power4.easeOut"/>
                 <h5>Projects Completed</h5>
@@ -59,7 +62,7 @@
                   ref="number4"
                   :from="numberFrom"
                   animationPaused
-                  :to="102"
+                  :to="19"
                   :duration="duration"
                   easing="Power4.easeOut"/>
                 <h5>Happy Clients</h5> 

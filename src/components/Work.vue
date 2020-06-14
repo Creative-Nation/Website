@@ -50,7 +50,7 @@
             </div> <!-- end col-full -->
         </div> <!-- end works-content -->
         
-        <v-photoswipe :isOpen="isOpen" :items="images" :options="options" @close="hidePhotoSwipe"></v-photoswipe>
+        <v-photoswipe :isOpen="isOpen" :items="images" :options="options" @close="hidePhotoSwipe"></v-photoswipe>w
 
     </section> <!-- end s-works -->
     

@@ -29,9 +29,7 @@
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Illustration</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+                    <p>An illustration is a visual representation of a graphic or pictorial nature whose essential function serves to amplify, complete, describe or extend a text. No image tells a story better than a beautiful illustration.
                     </p>
                 </div>
             </div>

@@ -48,7 +48,7 @@ export default {
 </script>
 
 <style type="text/css">
-@import url('./assets/css/base.css');
-@import url('./assets/css/main.css');
-@import url('./assets/css/vendor.css');
+  @import url('./assets/css/base.css');
+  @import url('./assets/css/main.css');
+  @import url('./assets/css/vendor.css');
 </style>

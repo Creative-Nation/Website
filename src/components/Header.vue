@@ -30,20 +30,16 @@
                     <li><a class="smoothscroll" v-smooth-scroll href="#contact" title="contact">Contact</a></li>
                 </ul>
     
-                <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
     
                 <ul class="header-nav__social">
                     <li>
                         <a href="#"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/ramus_as/"><i class="fa fa-instagram"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-whatsapp"></i></a>
+                        <a href="https://wa.me/"><i class="fa fa-whatsapp"></i></a>
                     </li>
                     
                 </ul>
